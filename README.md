@@ -15,4 +15,4 @@ The Museum NAMU landinding page was created using the following technologies:
 
 ## Preview Link
 
-[DEMO LINK]()
+[DEMO LINK](https://ydashko.github.io/museum-namu/)
